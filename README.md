@@ -9,7 +9,7 @@ Use the following command to download the code directly:
 
 wget -O sharkx.py https://github.com/Tnt075/Shark-x-metasploit-/tree/main
 
-
+cd Shark-x-metasploit-
 ---
 
 After Downloading or Creating the Code
