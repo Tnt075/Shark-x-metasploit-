@@ -7,7 +7,7 @@ Method 1: Download the Code Directly
 
 Use the following command to download the code directly:
 
-git clone https://github.com/Tnt075/Shark-x-metasploit-
+git clone https://github.com/Tnt075/Sharkx/blob/main/README.md
 
 cd Shark-x-metasploit-
 ---
