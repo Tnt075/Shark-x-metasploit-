@@ -1,0 +1,75 @@
+
+
+welcome 
+---
+الطريقة الأولى: تنزيل الكود مباشرةً
+
+استخدم هذا الأمر لتنزيل الكود مباشرةً:
+
+wget -O sharkx.py https://github.com/Tnt075/Shark-x-metasploit-/new/main
+
+
+
+
+---
+
+
+
+بعد تنزيل الكود أو إنشائه، قم بمنحه صلاحيات التنفيذ:
+
+chmod +x sharkx.py
+
+
+---
+
+4. تشغيل الأداة
+
+لتشغيل الأداة:
+
+python3 sharkx.py
+
+
+---
+
+5. ملاحظات إضافية
+
+1. تحديث Metasploit:
+
+لتحديث Metasploit Framework، استخدم:
+
+msfupdate
+
+
+
+2. تشغيل Metasploit بشكل منفصل:
+
+إذا أردت التأكد من أن Metasploit يعمل بشكل صحيح:
+
+msfconsole
+
+
+
+3. إصلاح الأخطاء:
+
+إذا واجهت مشاكل في تشغيل الأداة، تأكد من تثبيت الحزم اللازمة باستخدام:
+
+sudo apt install python3 python3-pip metasploit-framework -y
+pip3 install pexpect termcolor
+
+
+
+4. إزالة الأداة (اختياري):
+
+إذا أردت إزالة الأداة لاحقًا:
+
+rm -f sharkx.py
+
+
+
+
+
+---
+
+6. استفسارات إضافية
+
+هل تحتاج إلى رفع الكود على GitHub أو GitLab لتسهيل الوصول؟ أو ترغب في ميزات إضافية مثل دمج Nmap وWireshark؟
